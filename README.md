@@ -12,7 +12,7 @@
 </div>
   <br>
 <div>
-  <h1 color="blue">Contato: </h1>
+  <h1 style="color:blue;">Contato: </h1>
   <a href="http://api.whatsapp.com/send?phone=+5591983733745" target="_blank">
   <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" target="_blank"></a>
 </div>
