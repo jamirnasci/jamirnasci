@@ -5,7 +5,7 @@
     <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamirnasci&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <div style="display: block">
-    <img align="center" alt="python" height="100" width="200" src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/10/No-Python-Language.jpg">
+    <img align="center" alt="python" height="100" width="250" src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/10/No-Python-Language.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5">
     <img align="center" alt="linus" height="100" width="250" src="https://media.tenor.com/dq8yuzNDkWkAAAAC/linus-torvalds.gif">
   </div>
     <br>
