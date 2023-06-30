@@ -1,13 +1,12 @@
 <html>
 <body>
-  <div style="display: inline_block">
+  <div style="display: inline_block"">
     <a href="https://github.com/jamirnasci">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamirnasci&layout=compact&langs_count=7&theme=dark"/>
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamirnasci&layout=compact&langs_count=7&theme=dark"/>
   </div>
-  <div style="display: inline_block">
-    <img align="center" alt="-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
-    <img align="center" alt="-node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="vue" height="30" width="40" src="[https://www.stickpng.com/img/icons-logos-emojis/tech-companies/vuejs-full-logo](https://logospng.org/download/vue.js/vue-js-512.png)">
+  <div style="display: block">
+    <img align="center" alt="vue" height="100" width="250" src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/10/No-Python-Language.jpg">
+    <img align="center" alt="vue" height="100" width="250" src="https://media.tenor.com/dq8yuzNDkWkAAAAC/linus-torvalds.gif">
   </div>
     <br>
   <div>
