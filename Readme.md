@@ -1,20 +1,3 @@
-# Full-Stack Developer
+## Jamir Nascimento | Desenvolvedor Full-Stack
 
-Desenvolvedor com experiência em aplicações web e mobile, atuando desde a concepção até a implementação.
-
-## Tecnologias
-
-Java • Kotlin • PHP • JavaScript
-
-## Sobre
-
-Foco em performance, usabilidade e integração de sistemas.
-Experiência acadêmica em computação aplicada, com participação em pesquisa e publicação internacional.
-
-## Perfil
-
-Pensamento analítico, facilidade em aprender novas tecnologias e atuação em projetos individuais e em equipe.
-
-## Contato
-
-Aberto a oportunidades e colaborações.
+Bacharel em Sistemas de Informação (UFPA) com foco em criar soluções eficientes para web e mobile. Unindo experiência prática como freelancer ao rigor da pesquisa científica, desenvolvo sistemas de alta performance utilizando Java, Kotlin, PHP e o ecossistema JavaScript. Coautor de publicação internacional sobre processamento em dispositivos móveis e entusiasta de automação e arquitetura de software.
